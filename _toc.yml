@@ -1,2 +1,7 @@
 format: jb-book
-root: installation_expired_analysis
+root: index.md
+chapters:
+  - file: project1.ipynb
+  - file: project2.ipynb
+  - file: project3.ipynb
+  - file: lab11.ipynb
